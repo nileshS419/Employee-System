@@ -1,12 +1,7 @@
 {
   "employees": [
     {
-      "id": "28fa",
-      "name": "bs",
-      "email": "bs@gmail.com",
-      "password": "123456",
-      "confirmPassword": "123456",
-      "department": "HR"
+      
     }
   ]
 }
